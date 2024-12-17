@@ -1,0 +1,31 @@
+[Bibliografia]
+
+______________________________________________________________________________________________________________________________________
+[1]{Análisis de sistemas de autenticación y autorizaciön para entornos web distribuidos}
+
+https://openaccess.uoc.edu/bitstream/10609/107926/6/oparrabTFM0120memoria.pdf
+______________________________________________________________________________________________________________________________________
+[2]{Information Security Continuous Monitoring (ISCM) for Federal Information Systems and Organizations} 
+
+https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-137.pdf
+______________________________________________________________________________________________________________________________________
+[3]{Digital Identity Guidelines Authentication and Lifecycle Management} 
+
+https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63b.pdf
+______________________________________________________________________________________________________________________________________
+[4]{ Design and Implementation of USB Key System Based on Dual-Factor Identity Authentication Protocol}
+
+https://ojs.bbwpublisher.com/index.php/JERA/article/view/8398
+______________________________________________________________________________________________________________________________________
+[5]{PROPUESTA DE DISEÑO, IMPLANTACIÓN E IMPLEMENTACIÓN DE UN SISTEMA DE GESTIÓN DE SEGURIDAD DE LA INFORMACIÓN EN TECNOLOGIA DE LA INFORMACIÓN PARA ENTIDADES GUBERNAMENTALES DE BOLIVIA BASADO EN LA NORMA NB/ISO/IEC 27001:2013}
+
+https://repositorio.umsa.bo/bitstream/handle/123456789/15982/T-II-MACOFI-2017-13-MARCO%20PRACTI%20PROPUESTA%20DE%20DISEÑO%2cIMPLANTACION%20E%20IMPLEMENTACION%20DE%20UN%20SISTEMA%20DE%20GESTION%20DE%20SEGURIDAD%20DE%20LA%20INFOEMACION%20EN%20TECNOLOGIA%20DE%20LA%20INFORMACION%20PARA%20ENTIDADES%20GUBERNAMENTALES%20%20DE%20BOLIVIA.pdf?sequence=1&isAllowed=y
+______________________________________________________________________________________________________________________________________
+[6]{Transformación digital en la gestión pública de una municipalidad distrital, 2022} 
+
+https://repositorio.ucv.edu.pe/handle/20.500.12692/101441
+______________________________________________________________________________________________________________________________________
+[7]{PROPUESTA DE UN SISTEMA DE GESTIÓN DE SEGURIDAD DE LA INFORMACIÓN CON NORMAS ISO 27001 PARA LA MUNICIPALIDAD DISTRITAL DE BUENA VISTA ALTA – CASMA; 2017.}
+
+https://repositorio.uladech.edu.pe/handle/20.500.13032/14412
+______________________________________________________________________________________________________________________________________

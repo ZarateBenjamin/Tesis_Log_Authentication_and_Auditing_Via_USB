@@ -1,0 +1,61 @@
+[1]{LEY MARCO DE CIBERSEGURIDAD}
+
+https://www.bcn.cl/leychile/navegar?i=1202434
+_________________________________________________________________________
+[2]{TRANSFORMACIÓN DIGITAL DEL ESTADO}
+
+https://www.bcn.cl/leychile/navegar?idNorma=1138479
+_________________________________________________________________________
+[3]{SOBRE PROTECCION DE LA VIDA PRIVADA}
+
+https://www.bcn.cl/leychile/navegar?idNorma=141599
+_________________________________________________________________________
+[4]{Network and internetwork security: principles and practice}
+
+https://dl.acm.org/doi/abs/10.5555/193189
+
+@book{10.5555/193189,
+author = {Stallings, William},
+title = {Network and internetwork security: principles and practice},
+year = {1995},
+isbn = {0024154830},
+publisher = {Prentice-Hall, Inc.},
+address = {USA}
+}
+
+_________________________________________________________________________
+[5]{NIST 800-92 Guide to Computer Security Log Management}
+
+https://dl.acm.org/doi/abs/10.5555/2331311
+
+@book{10.5555/2331311,
+author = {Nist and Aroms, Emmanuel},
+title = {NIST 800-92 Guide to Computer Security Log Management},
+year = {2012},
+isbn = {1470100401},
+publisher = {CreateSpace},
+address = {Scotts Valley, CA},
+abstract = {NIST Special Publication 800-92, Guide to Computer Security Log Management is prepared by The National Institute of Standards and Technology. This publication seeks to assist organizations in understanding the need for sound computer security log management. It provides practical, real-world guidance on developing, implementing, and maintaining effective log management practices throughout an enterprise. The guidance in this publication covers several topics, including establishing log management infrastructures, and developing and performing robust log management processes throughout an organization. The publication presents log management technologies from a high-level viewpoint, and it is not a step-by-step guide to implementing or using log management technologies. Disclaimer This hardcopy is not published by National Institute of Standards and Technology (NIST), the US Government or US Department of Commerce. The publication of this document should not in any way imply any relationship or affiliation to the above named organizations and Government.}
+}
+_________________________________________________________________________
+[6]{FUNDAMENTALS OF Database Systems}
+
+http://ir.harambeeuniversity.edu.et/bitstream/handle/123456789/1810/Fundamentals%20of%20Database%20Systems%20.pdf%20%28%20PDFDrive.com%20%29.pdf?sequence=1&isAllowed=y
+_________________________________________________________________________
+[7]{Recommendation for Block Cipher Modes of Operation}
+
+https://www.icfgblog.com/usr/uploads/2021/05/1113023859.pdf
+_________________________________________________________________________
+[8]{COMPUTER SEVENTH EDITION GLOBAL EDITION NETWORKING: A Top-Down Approach}
+
+https://toc.library.ethz.ch/objects/pdf03/e01_1-292-15359-8_01.pdf
+_________________________________________________________________________
+[9]{Seguridad de la Información, Ciberseguridad y Protección de la Privacidad — Sistemas de gestión de la Seguridad de la Información — Requisitos }
+
+https://deingenieriaindustrial.com/wp-content/uploads/2024/09/Norma-ISO-27001-2022.pdf
+_________________________________________________________________________
+[10]{Digital Identity Guidelines}
+
+https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-63b.pdf
+_________________________________________________________________________
+
